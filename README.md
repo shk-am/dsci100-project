@@ -1,2 +1,4 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI100 Minecraft Project Report
+
+Alisha Mah
+June 2025
